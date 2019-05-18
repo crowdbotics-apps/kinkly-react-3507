@@ -1,0 +1,3 @@
+rootProject.name = 'kinkly_react_3507'
+
+include ':app'

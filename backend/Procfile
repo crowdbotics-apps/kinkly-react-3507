@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT kinkly_react_3507.wsgi:application
